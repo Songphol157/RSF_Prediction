@@ -1,0 +1,201 @@
+patient_id_original,PATIENT_ID,npm1_cat,tp53_cat,asxl1_cat,runx1_cat,flt3_itd_cat,death,is_denovo,age_at_dx,ETHNICITY,RACE,sex,OS_MONTHS,eln_class,karyotype,date_dx,date_last
+1,TCGA-AB-2802,Negative,Negative,Negative,Negative,Negative,yes,yes,50,NOT HISPANIC OR LATINO,WHITE,Male,11.9908,Intermediate,"46,XY[20]",1/1/2000,12/31/2000
+2,TCGA-AB-2803,Negative,Negative,Negative,Negative,Negative,yes,yes,61,NOT HISPANIC OR LATINO,WHITE,Female,26.0184,Intermediate,"46,XX[20]",1/1/2000,3/3/2002
+3,TCGA-AB-2804,Negative,Negative,Negative,Negative,Negative,no,yes,30,NOT HISPANIC OR LATINO,WHITE,Male,84.0013,Intermediate,"46,XY[20]",1/1/2000,1/1/2007
+4,TCGA-AB-2805,Negative,Negative,Negative,Negative,Negative,yes,no,76,NOT HISPANIC OR LATINO,WHITE,Male,18.9553,Intermediate,"46,XY[20]",1/1/2000,7/31/2001
+5,TCGA-AB-2806,Negative,Negative,Negative,Negative,Negative,yes,yes,46,NOT HISPANIC OR LATINO,WHITE,Male,31.0447,Favorable,"46,XY,t(8;21)[20]",1/1/2000,8/3/2002
+6,TCGA-AB-2807,Negative,Negative,Negative,Negative,Negative,yes,yes,68,NOT HISPANIC OR LATINO,WHITE,Female,5.94612,Intermediate,"46,XX[20]",1/1/2000,6/30/2000
+7,TCGA-AB-2808,Negative,Negative,Negative,Negative,Negative,no,yes,23,NOT HISPANIC OR LATINO,WHITE,Male,93.9882,Intermediate,"46,XY[20]",1/1/2000,11/1/2007
+8,TCGA-AB-2809,Negative,Negative,Negative,Negative,Negative,yes,yes,64,NOT HISPANIC OR LATINO,WHITE,Female,2.03679,Intermediate,"46,XX[20]",1/1/2000,3/3/2000
+9,TCGA-AB-2810,Negative,Negative,Negative,Negative,Negative,yes,yes,76,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Female,1.0184,Intermediate,"46,XX[20]",1/1/2000,2/1/2000
+10,TCGA-AB-2811,Negative,Negative,Negative,Negative,Negative,yes,yes,81,NOT HISPANIC OR LATINO,WHITE,Male,7.98292,Intermediate,"46,XY[20]",1/1/2000,8/31/2000
+11,TCGA-AB-2812,Negative,Negative,Negative,Negative,Negative,yes,yes,25,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Female,12.0237,Intermediate,"46,XX[20]",1/1/2000,1/1/2001
+12,TCGA-AB-2813,Negative,Negative,Negative,Negative,Negative,yes,yes,78,NOT HISPANIC OR LATINO,WHITE,Male,1.0184,Adverse,Complex,1/1/2000,2/1/2000
+13,TCGA-AB-2814,Negative,Negative,Negative,Negative,Negative,yes,yes,39,NOT HISPANIC OR LATINO,WHITE,Female,26.0184,Adverse,Complex,1/1/2000,3/3/2002
+14,TCGA-AB-2815,Negative,Negative,Negative,Negative,Negative,yes,yes,49,NOT HISPANIC OR LATINO,WHITE,Male,27.0039,Favorable,"46,XY,inv(16)[20]",1/1/2000,4/2/2002
+15,TCGA-AB-2816,Negative,Negative,Negative,Negative,Negative,yes,yes,57,NOT HISPANIC OR LATINO,WHITE,Female,8.04862,Intermediate,"46,XX[20]",1/1/2000,9/2/2000
+16,TCGA-AB-2817,Negative,Negative,Negative,Negative,Negative,yes,yes,64,NOT HISPANIC OR LATINO,WHITE,Male,8.96846,Intermediate,"46,XY[20]",1/1/2000,9/30/2000
+17,TCGA-AB-2818,Negative,Negative,Negative,Negative,Negative,yes,yes,62,NOT HISPANIC OR LATINO,ASIAN,Female,9.95401,Intermediate,"46,XX[20]",1/1/2000,10/30/2000
+18,TCGA-AB-2819,Negative,Negative,Negative,Negative,Negative,no,no,52,NOT HISPANIC OR LATINO,WHITE,Female,81.9974,Favorable,t(8;21),1/1/2000,11/1/2006
+19,TCGA-AB-2820,Negative,Negative,Negative,Negative,Negative,yes,yes,76,NOT HISPANIC OR LATINO,WHITE,Male,0,Adverse,Complex,1/1/2000,1/1/2000
+20,TCGA-AB-2821,Negative,Negative,Negative,Negative,Negative,yes,yes,64,NOT HISPANIC OR LATINO,WHITE,Male,27.0039,Intermediate,"46,XY[20]",1/1/2000,4/2/2002
+21,TCGA-AB-2822,Negative,Negative,Negative,Negative,Negative,yes,yes,65,NOT HISPANIC OR LATINO,WHITE,Male,31.9645,Intermediate,"46,XY[20]",1/1/2000,8/31/2002
+22,TCGA-AB-2823,Negative,Negative,Negative,Negative,Negative,yes,yes,61,NOT HISPANIC OR LATINO,WHITE,Female,0,Favorable,t(15;17),1/1/2000,1/1/2000
+23,TCGA-AB-2824,Negative,Negative,Negative,Negative,Negative,yes,yes,45,NOT HISPANIC OR LATINO,WHITE,Male,0.985545,Intermediate,"46,XY[20]",1/1/2000,1/31/2000
+24,TCGA-AB-2825,Negative,Negative,Negative,Negative,Negative,yes,yes,31,NOT HISPANIC OR LATINO,WHITE,Female,6.96452,Intermediate,"46,XX[20]",1/1/2000,7/31/2000
+25,TCGA-AB-2826,Negative,Negative,Negative,Negative,Negative,yes,yes,64,NOT HISPANIC OR LATINO,WHITE,Female,24.0145,Intermediate,"46,XX[20]",1/1/2000,1/1/2002
+26,TCGA-AB-2827,Negative,Negative,Negative,Negative,Negative,yes,yes,33,NOT HISPANIC OR LATINO,WHITE,Male,8.96846,Intermediate,"46,XY[20]",1/1/2000,9/30/2000
+27,TCGA-AB-2828,Negative,Negative,Negative,Negative,Negative,no,yes,55,NOT HISPANIC OR LATINO,WHITE,Male,75.0329,Intermediate,"46,XY[20]",1/1/2000,4/3/2006
+28,TCGA-AB-2829,Negative,Negative,Negative,Negative,Negative,yes,yes,50,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Male,8.96846,Intermediate,"46,XY[20]",1/1/2000,9/30/2000
+29,TCGA-AB-2830,Negative,Negative,Negative,Negative,Negative,yes,yes,64,NOT HISPANIC OR LATINO,WHITE,Female,9.03417,Intermediate,"46,XX[20]",1/1/2000,10/2/2000
+30,TCGA-AB-2831,Negative,Negative,Negative,Negative,Negative,yes,yes,59,NOT HISPANIC OR LATINO,WHITE,Male,21.025,Intermediate,"46,XY[20]",1/1/2000,10/2/2001
+31,TCGA-AB-2832,Negative,Negative,Negative,Negative,Negative,yes,yes,60,NOT HISPANIC OR LATINO,WHITE,Female,11.9908,Intermediate,"46,XX[20]",1/1/2000,12/31/2000
+32,TCGA-AB-2833,Negative,Negative,Negative,Negative,Negative,yes,yes,77,NOT HISPANIC OR LATINO,WHITE,Male,14.9803,Intermediate,"46,XY[20]",1/1/2000,4/1/2001
+33,TCGA-AB-2834,Negative,Negative,Negative,Negative,Negative,yes,yes,33,NOT HISPANIC OR LATINO,WHITE,Male,8.04862,Intermediate,"46,XY[20]",1/1/2000,9/2/2000
+34,TCGA-AB-2835,Negative,Negative,Negative,Negative,Negative,no,yes,48,NOT HISPANIC OR LATINO,WHITE,Male,54.9606,Intermediate,"46,XY[20]",1/1/2000,7/31/2004
+35,TCGA-AB-2836,Negative,Negative,Negative,Negative,Negative,yes,yes,35,NOT HISPANIC OR LATINO,WHITE,Male,17.0171,Intermediate,"46,XY[20]",1/1/2000,6/2/2001
+36,TCGA-AB-2837,Negative,Negative,Negative,Negative,Negative,yes,yes,66,NOT HISPANIC OR LATINO,WHITE,Female,0,Intermediate,"46,XX[20]",1/1/2000,1/1/2000
+37,TCGA-AB-2838,Negative,Negative,Negative,Negative,Negative,yes,yes,67,NOT HISPANIC OR LATINO,WHITE,Male,11.9908,Adverse,Complex,1/1/2000,12/31/2000
+38,TCGA-AB-2839,Negative,Negative,Negative,Negative,Negative,yes,yes,51,NOT HISPANIC OR LATINO,WHITE,Female,15.9658,Intermediate,"46,XX[20]",1/1/2000,5/1/2001
+39,TCGA-AB-2840,Negative,Negative,Negative,Negative,Negative,yes,yes,74,NOT HISPANIC OR LATINO,WHITE,Male,0.919842,Favorable,"46,XY,t(15;17)[20]",1/1/2000,1/29/2000
+40,TCGA-AB-2841,Negative,Negative,Negative,Negative,Negative,yes,yes,51,NOT HISPANIC OR LATINO,WHITE,Female,46.025,Favorable,t(15;17),1/1/2000,11/2/2003
+41,TCGA-AB-2842,Negative,Negative,Negative,Negative,Negative,yes,yes,64,NOT HISPANIC OR LATINO,WHITE,Male,0,Intermediate,"46,XY[20]",1/1/2000,1/1/2000
+42,TCGA-AB-2843,Negative,Negative,Negative,Negative,Negative,yes,yes,77,NOT HISPANIC OR LATINO,WHITE,Male,7.06307,Intermediate,"46,XY[20]",1/1/2000,8/3/2000
+43,TCGA-AB-2844,Negative,Negative,Negative,Negative,Negative,yes,yes,63,NOT HISPANIC OR LATINO,WHITE,Male,4.00788,Intermediate,"46,XY[20]",1/1/2000,5/2/2000
+44,TCGA-AB-2845,Negative,Negative,Negative,Negative,Negative,yes,yes,37,NOT HISPANIC OR LATINO,WHITE,Female,9.98686,Intermediate,"46,XX[20]",1/1/2000,10/31/2000
+45,TCGA-AB-2846,Negative,Negative,Negative,Negative,Negative,yes,yes,57,NOT HISPANIC OR LATINO,WHITE,Female,46.0578,Favorable,"46,XX,inv(16)[20]",1/1/2000,11/3/2003
+46,TCGA-AB-2847,Negative,Negative,Negative,Negative,Negative,yes,no,53,NOT HISPANIC OR LATINO,WHITE,Male,19.9737,Intermediate,"46,XY[20]",1/1/2000,8/31/2001
+47,TCGA-AB-2848,Negative,Negative,Negative,Negative,Negative,yes,yes,62,NOT HISPANIC OR LATINO,WHITE,Male,14.9474,Intermediate,"46,XY[20]",1/1/2000,3/31/2001
+48,TCGA-AB-2849,Negative,Negative,Negative,Negative,Negative,no,yes,39,NOT HISPANIC OR LATINO,WHITE,Male,72.9304,Intermediate,"46,XY[20]",1/1/2000,1/29/2006
+49,TCGA-AB-2850,Negative,Negative,Negative,Negative,Negative,yes,yes,72,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Female,2.00394,Intermediate,"46,XX[20]",1/1/2000,3/2/2000
+50,TCGA-AB-2851,Negative,Negative,Negative,Negative,Negative,yes,yes,66,NOT HISPANIC OR LATINO,WHITE,Female,7.95007,Intermediate,"46,XX[20]",1/1/2000,8/30/2000
+51,TCGA-AB-2853,Negative,Negative,Negative,Negative,Negative,yes,yes,51,NOT HISPANIC OR LATINO,WHITE,Male,2.92378,Intermediate,"46,XY[20]",1/1/2000,3/30/2000
+52,TCGA-AB-2854,Negative,Negative,Negative,Negative,Negative,yes,yes,51,NOT HISPANIC OR LATINO,WHITE,Female,12.0237,Intermediate,"46,XX[20]",1/1/2000,1/1/2001
+53,TCGA-AB-2855,Negative,Negative,Negative,Negative,Negative,yes,yes,18,NOT HISPANIC OR LATINO,WHITE,Male,6.96452,Adverse,Complex,1/1/2000,7/31/2000
+54,TCGA-AB-2856,Negative,Negative,Negative,Negative,Negative,yes,yes,63,NOT HISPANIC OR LATINO,WHITE,Male,4.92773,Intermediate,"46,XY[20]",1/1/2000,5/30/2000
+55,TCGA-AB-2857,Negative,Negative,Negative,Negative,Negative,yes,yes,54,NOT HISPANIC OR LATINO,WHITE,Male,10.0526,Adverse,Complex,1/1/2000,11/2/2000
+56,TCGA-AB-2858,Negative,Negative,Negative,Negative,Negative,yes,yes,75,NOT HISPANIC OR LATINO,WHITE,Female,18.9553,Favorable,t(8;21),1/1/2000,7/31/2001
+57,TCGA-AB-2859,Negative,Negative,Negative,Negative,Negative,yes,yes,40,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Male,9.98686,Intermediate,"46,XY[20]",1/1/2000,10/31/2000
+58,TCGA-AB-2860,Negative,Negative,Negative,Negative,Negative,yes,yes,60,NOT HISPANIC OR LATINO,WHITE,Female,14.0276,Adverse,Complex,1/1/2000,3/3/2001
+59,TCGA-AB-2861,Negative,Negative,Negative,Negative,Negative,yes,yes,76,NOT HISPANIC OR LATINO,WHITE,Male,0,Intermediate,"46,XY[20]",1/1/2000,1/1/2000
+60,TCGA-AB-2862,Negative,Negative,Negative,Negative,Negative,no,yes,33,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Female,46.9777,Intermediate,"46,XX[20]",1/1/2000,12/1/2003
+61,TCGA-AB-2863,Negative,Negative,Negative,Negative,Negative,yes,yes,63,NOT HISPANIC OR LATINO,WHITE,Male,1.0184,Intermediate,"46,XY[20]",1/1/2000,2/1/2000
+62,TCGA-AB-2864,Negative,Negative,Negative,Negative,Negative,yes,yes,54,HISPANIC OR LATINO,WHITE,Female,18.9553,Intermediate,"46,XX[20]",1/1/2000,7/31/2001
+63,TCGA-AB-2865,Negative,Negative,Negative,Negative,Negative,yes,yes,75,NOT HISPANIC OR LATINO,WHITE,Male,2.00394,Intermediate,"46,XY[20]",1/1/2000,3/2/2000
+64,TCGA-AB-2866,Negative,Negative,Negative,Negative,Negative,yes,yes,67,NOT HISPANIC OR LATINO,WHITE,Male,5.02628,Intermediate,"46,XY[20]",1/1/2000,6/2/2000
+65,TCGA-AB-2867,Negative,Negative,Negative,Negative,Negative,yes,yes,66,NOT HISPANIC OR LATINO,WHITE,Female,6.04468,Intermediate,"46,XX[20]",1/1/2000,7/3/2000
+66,TCGA-AB-2868,Negative,Negative,Negative,Negative,Negative,yes,yes,77,NOT HISPANIC OR LATINO,WHITE,Male,4.96058,Adverse,Complex,1/1/2000,5/31/2000
+67,TCGA-AB-2869,Positive,Negative,Negative,Negative,Negative,no,yes,64,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Female,7.98292,Favorable,"46,XX[20]",1/1/2000,8/31/2000
+68,TCGA-AB-2870,Negative,Negative,Negative,Negative,Negative,yes,yes,76,NOT HISPANIC OR LATINO,WHITE,Male,5.02628,Favorable,"46,XY,inv(16)[20]",1/1/2000,6/2/2000
+69,TCGA-AB-2871,Positive,Negative,Negative,Negative,Negative,no,yes,51,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Male,5.02628,Favorable,"46,XY[20]",1/1/2000,6/2/2000
+70,TCGA-AB-2872,Negative,Negative,Negative,Negative,Negative,no,yes,42,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Male,20.9593,Adverse,Complex,1/1/2000,9/30/2001
+71,TCGA-AB-2873,Negative,Negative,Negative,Negative,Negative,no,yes,51,NOT HISPANIC OR LATINO,WHITE,Female,8.96846,Intermediate,"46,XX[20]",1/1/2000,9/30/2000
+72,TCGA-AB-2874,Negative,Negative,Negative,Negative,Negative,no,yes,59,NOT HISPANIC OR LATINO,WHITE,Male,13.0092,Adverse,Complex,1/1/2000,1/31/2001
+73,TCGA-AB-2875,Negative,Negative,Negative,Negative,Negative,no,yes,43,NOT HISPANIC OR LATINO,WHITE,Male,6.96452,Favorable,"46,XY,t(8;21)[20]",1/1/2000,7/31/2000
+74,TCGA-AB-2876,Negative,Negative,Negative,Negative,Negative,no,yes,45,NOT HISPANIC OR LATINO,WHITE,Female,40.046,Intermediate,"46,XX[20]",1/1/2000,5/4/2003
+75,TCGA-AB-2877,Positive,Negative,Negative,Negative,Negative,no,no,60,NOT HISPANIC OR LATINO,WHITE,Female,20.9593,Favorable,"46,XX[20]",1/1/2000,9/30/2001
+76,TCGA-AB-2878,Negative,Negative,Negative,Negative,Negative,yes,yes,47,NOT HISPANIC OR LATINO,WHITE,Female,11.9908,Adverse,Complex,1/1/2000,12/31/2000
+77,TCGA-AB-2879,Negative,Negative,Negative,Negative,Negative,no,yes,68,NOT HISPANIC OR LATINO,WHITE,Female,8.04862,Intermediate,"46,XX[20]",1/1/2000,9/2/2000
+78,TCGA-AB-2880,Negative,Negative,Negative,Negative,Negative,yes,yes,24,NOT HISPANIC OR LATINO,WHITE,Male,13.929,Intermediate,"46,XY[20]",1/1/2000,2/28/2001
+79,TCGA-AB-2881,Negative,Negative,Negative,Negative,Negative,no,yes,48,NOT HISPANIC OR LATINO,WHITE,Female,12.9106,Intermediate,"46,XX[20]",1/1/2000,1/28/2001
+80,TCGA-AB-2882,Negative,Negative,Negative,Negative,Negative,yes,yes,73,,WHITE,Female,11.9908,Intermediate,"46,XX[20]",1/1/2000,12/31/2000
+81,TCGA-AB-2883,Negative,Negative,Negative,Negative,Negative,no,yes,60,NOT HISPANIC OR LATINO,WHITE,Male,23.9816,Adverse,Complex,1/1/2000,12/31/2001
+82,TCGA-AB-2884,Negative,Negative,Negative,Negative,Negative,yes,yes,44,NOT HISPANIC OR LATINO,WHITE,Female,24.0145,Intermediate,"46,XX[20]",1/1/2000,1/1/2002
+83,TCGA-AB-2885,Negative,Positive,Negative,Negative,Negative,yes,yes,71,NOT HISPANIC OR LATINO,WHITE,Male,7.03022,Adverse,Complex,1/1/2000,8/2/2000
+84,TCGA-AB-2886,Negative,Negative,Negative,Negative,Negative,no,yes,26,NOT HISPANIC OR LATINO,WHITE,Male,5.94612,Favorable,"46,XY,t(8;21)[20]",1/1/2000,6/30/2000
+85,TCGA-AB-2887,Negative,Negative,Negative,Negative,Negative,yes,yes,60,NOT HISPANIC OR LATINO,WHITE,Female,,Adverse,Complex,1/1/2000,1/1/2000
+86,TCGA-AB-2888,Negative,Negative,Negative,Negative,Negative,no,yes,57,NOT HISPANIC OR LATINO,WHITE,Male,10.9724,Intermediate,"46,XY[20]",1/1/2000,11/30/2000
+87,TCGA-AB-2889,Negative,Negative,Negative,Negative,Negative,no,yes,55,NOT HISPANIC OR LATINO,WHITE,Male,9.98686,Favorable,"46,XY,inv(16)[20]",1/1/2000,10/31/2000
+88,TCGA-AB-2890,Negative,Negative,Negative,Negative,Negative,yes,yes,69,NOT HISPANIC OR LATINO,WHITE,Male,0,Intermediate,"46,XY[20]",1/1/2000,1/1/2000
+89,TCGA-AB-2891,Negative,Negative,Negative,Negative,Negative,yes,yes,42,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Male,,Adverse,Complex,1/1/2000,1/1/2000
+90,TCGA-AB-2892,Negative,Negative,Negative,Negative,Negative,no,yes,42,NOT HISPANIC OR LATINO,WHITE,Female,30.979,Favorable,"46,XX,inv(16)[20]",1/1/2000,8/1/2002
+91,TCGA-AB-2893,Negative,Negative,Negative,Negative,Negative,yes,yes,45,NOT HISPANIC OR LATINO,WHITE,Male,6.96452,Intermediate,"46,XY[20]",1/1/2000,7/31/2000
+92,TCGA-AB-2894,Negative,Negative,Negative,Negative,Negative,yes,yes,50,NOT HISPANIC OR LATINO,WHITE,Female,5.94612,Intermediate,t(9;11),1/1/2000,6/30/2000
+93,TCGA-AB-2895,Positive,Negative,Negative,Negative,Positive,yes,yes,41,NOT HISPANIC OR LATINO,WHITE,Female,5.02628,Favorable,"46,XX[20]",1/1/2000,6/2/2000
+94,TCGA-AB-2896,Negative,Negative,Negative,Negative,Negative,yes,yes,21,NOT HISPANIC OR LATINO,WHITE,Female,7.03022,Intermediate,"46,XX[20]",1/1/2000,8/2/2000
+95,TCGA-AB-2897,Negative,Negative,Negative,Negative,Negative,no,yes,50,NOT HISPANIC OR LATINO,WHITE,Female,7.98292,Favorable,t(15;17),1/1/2000,8/31/2000
+96,TCGA-AB-2898,Negative,Negative,Negative,Negative,Negative,no,yes,69,NOT HISPANIC OR LATINO,WHITE,Female,12.9106,Intermediate,"46,XX[20]",1/1/2000,1/28/2001
+97,TCGA-AB-2899,Negative,Negative,Negative,Positive,Negative,yes,yes,76,NOT HISPANIC OR LATINO,WHITE,Female,22.0434,Adverse,"46,XX[20]",1/1/2000,11/2/2001
+98,TCGA-AB-2900,Negative,Negative,Negative,Negative,Negative,yes,yes,70,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Male,6.04468,Intermediate,"46,XY[20]",1/1/2000,7/3/2000
+99,TCGA-AB-2901,Negative,Negative,Negative,Negative,Negative,no,yes,27,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Male,1.93824,Adverse,Complex,1/1/2000,2/29/2000
+100,TCGA-AB-2903,Negative,Negative,Negative,Negative,Negative,yes,yes,76,NOT HISPANIC OR LATINO,WHITE,Female,0,Intermediate,"46,XX[20]",1/1/2000,1/1/2000
+101,TCGA-AB-2904,Negative,Positive,Negative,Negative,Negative,yes,yes,65,NOT HISPANIC OR LATINO,WHITE,Male,16.9842,Adverse,Complex,1/1/2000,6/1/2001
+102,TCGA-AB-2905,Negative,Negative,Negative,Negative,Negative,no,yes,48,HISPANIC OR LATINO,WHITE,Male,52.9238,Favorable,"46,XY,t(15;17)[20]",1/1/2000,5/30/2004
+103,TCGA-AB-2906,Negative,Negative,Negative,Negative,Negative,no,yes,59,NOT HISPANIC OR LATINO,WHITE,Male,18.9553,Favorable,"46,XY,t(15;17)[20]",1/1/2000,7/31/2001
+104,TCGA-AB-2907,Negative,Negative,Negative,Negative,Negative,yes,yes,69,NOT HISPANIC OR LATINO,WHITE,Male,,Intermediate,"46,XY[20]",1/1/2000,1/1/2000
+105,TCGA-AB-2908,Negative,Negative,Negative,Negative,Negative,yes,no,81,NOT HISPANIC OR LATINO,WHITE,Male,1.0184,Adverse,Complex,1/1/2000,2/1/2000
+106,TCGA-AB-2909,Negative,Negative,Negative,Negative,Negative,no,yes,22,NOT HISPANIC OR LATINO,ASIAN,Male,0.985545,Intermediate,"46,XY[20]",1/1/2000,1/31/2000
+107,TCGA-AB-2910,Negative,Negative,Negative,Negative,Positive,yes,yes,61,NOT HISPANIC OR LATINO,WHITE,Female,0,Intermediate,"46,XX[20]",1/1/2000,1/1/2000
+108,TCGA-AB-2911,Negative,Negative,Negative,Negative,Negative,no,yes,51,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Female,38.9619,Adverse,Complex,1/1/2000,4/1/2003
+109,TCGA-AB-2912,Negative,Negative,Negative,Positive,Negative,yes,yes,63,NOT HISPANIC OR LATINO,WHITE,Male,9.00131,Adverse,"46,XY[20]",1/1/2000,10/1/2000
+110,TCGA-AB-2913,Negative,Negative,Negative,Negative,Negative,no,yes,61,NOT HISPANIC OR LATINO,WHITE,Male,39.9474,Intermediate,"46,XY[20]",1/1/2000,5/1/2003
+111,TCGA-AB-2914,Negative,Negative,Negative,Negative,Negative,no,yes,22,NOT HISPANIC OR LATINO,WHITE,Female,26.0184,Favorable,"46,XX,inv(16)[20]",1/1/2000,3/3/2002
+112,TCGA-AB-2915,Positive,Negative,Negative,Negative,Negative,yes,yes,73,NOT HISPANIC OR LATINO,WHITE,Female,0,Adverse,Complex,1/1/2000,1/1/2000
+113,TCGA-AB-2916,Negative,Negative,Negative,Positive,Negative,no,yes,48,HISPANIC OR LATINO,WHITE,Female,28.975,Adverse,"46,XX[20]",1/1/2000,6/1/2002
+114,TCGA-AB-2917,Negative,Positive,Positive,Negative,Negative,no,yes,41,NOT HISPANIC OR LATINO,WHITE,Female,39.9474,Adverse,Complex,1/1/2000,5/1/2003
+115,TCGA-AB-2918,Negative,Negative,Negative,Negative,Negative,yes,yes,47,NOT HISPANIC OR LATINO,WHITE,Female,,Intermediate,"46,XX[20]",1/1/2000,1/1/2000
+116,TCGA-AB-2919,Positive,Negative,Negative,Negative,Positive,no,yes,54,NOT HISPANIC OR LATINO,WHITE,Female,2.00394,Intermediate,"46,XX[20]",1/1/2000,3/2/2000
+117,TCGA-AB-2920,Negative,Negative,Negative,Negative,Negative,yes,yes,44,NOT HISPANIC OR LATINO,WHITE,Male,12.0237,Adverse,Complex,1/1/2000,1/1/2001
+118,TCGA-AB-2921,Negative,Negative,Negative,Negative,Negative,yes,yes,56,NOT HISPANIC OR LATINO,WHITE,Female,,Intermediate,"46,XX[20]",1/1/2000,1/1/2000
+119,TCGA-AB-2922,Negative,Negative,Negative,Negative,Negative,yes,yes,83,NOT HISPANIC OR LATINO,WHITE,Male,0,Intermediate,"46,XY[20]",1/1/2000,1/1/2000
+120,TCGA-AB-2923,Negative,Negative,Negative,Negative,Negative,yes,yes,78,NOT HISPANIC OR LATINO,WHITE,Male,1.0184,Intermediate,"46,XY[20]",1/1/2000,2/1/2000
+121,TCGA-AB-2924,Negative,Negative,Negative,Negative,Negative,no,yes,59,NOT HISPANIC OR LATINO,WHITE,Male,2.95664,Intermediate,"46,XY[20]",1/1/2000,3/31/2000
+122,TCGA-AB-2925,Positive,Negative,Negative,Negative,Negative,yes,yes,57,NOT HISPANIC OR LATINO,WHITE,Male,7.98292,Favorable,"46,XY[20]",1/1/2000,8/31/2000
+123,TCGA-AB-2926,Negative,Negative,Negative,Negative,Negative,yes,yes,57,NOT HISPANIC OR LATINO,WHITE,Female,15.0131,Intermediate,"46,XX[20]",1/1/2000,4/2/2001
+124,TCGA-AB-2927,Negative,Negative,Positive,Positive,Negative,yes,yes,88,NOT HISPANIC OR LATINO,WHITE,Female,2.95664,Adverse,"46,XX[20]",1/1/2000,3/31/2000
+125,TCGA-AB-2928,Negative,Negative,Negative,Negative,Negative,yes,yes,43,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Female,1.93824,Adverse,Complex,1/1/2000,2/29/2000
+126,TCGA-AB-2929,Negative,Negative,Negative,Negative,Negative,yes,no,71,NOT HISPANIC OR LATINO,WHITE,Female,4.04074,Adverse,Complex,1/1/2000,5/3/2000
+127,TCGA-AB-2930,Negative,Negative,Negative,Negative,Negative,yes,yes,63,NOT HISPANIC OR LATINO,WHITE,Female,,Intermediate,"46,XX[20]",1/1/2000,1/1/2000
+128,TCGA-AB-2931,Positive,Negative,Negative,Negative,Negative,yes,no,75,NOT HISPANIC OR LATINO,WHITE,Male,0,Favorable,"46,XY[20]",1/1/2000,1/1/2000
+129,TCGA-AB-2932,Negative,Negative,Negative,Negative,Negative,no,no,62,NOT HISPANIC OR LATINO,WHITE,Male,0,Intermediate,"46,XY[20]",1/1/2000,1/1/2000
+130,TCGA-AB-2933,Negative,Negative,Negative,Negative,Negative,yes,yes,58,NOT HISPANIC OR LATINO,WHITE,Male,4.00788,Intermediate,"46,XY[20]",1/1/2000,5/2/2000
+131,TCGA-AB-2934,Negative,Negative,Negative,Negative,Negative,no,yes,65,NOT HISPANIC OR LATINO,WHITE,Male,0.919842,Intermediate,"46,XY[20]",1/1/2000,1/29/2000
+132,TCGA-AB-2935,Negative,Positive,Negative,Negative,Negative,yes,no,66,NOT HISPANIC OR LATINO,WHITE,Male,2.00394,Adverse,Complex,1/1/2000,3/2/2000
+133,TCGA-AB-2936,Negative,Negative,Negative,Negative,Negative,no,yes,60,NOT HISPANIC OR LATINO,WHITE,Female,1.93824,Intermediate,"46,XX[20]",1/1/2000,2/29/2000
+134,TCGA-AB-2937,Negative,Negative,Negative,Negative,Negative,yes,yes,36,NOT HISPANIC OR LATINO,WHITE,Female,7.06307,Intermediate,t(8;21),1/1/2000,8/3/2000
+135,TCGA-AB-2938,Negative,Positive,Negative,Negative,Negative,yes,yes,76,NOT HISPANIC OR LATINO,WHITE,Male,9.98686,Adverse,"46,XY[20]",1/1/2000,10/31/2000
+136,TCGA-AB-2939,Negative,Negative,Negative,Negative,Negative,no,no,72,NOT HISPANIC OR LATINO,WHITE,Male,14.9474,Adverse,Complex,1/1/2000,3/31/2001
+137,TCGA-AB-2940,Negative,Negative,Negative,Negative,Negative,yes,yes,35,NOT HISPANIC OR LATINO,WHITE,Male,,Intermediate,"46,XY[20]",1/1/2000,1/1/2000
+138,TCGA-AB-2941,Negative,Negative,Negative,Negative,Negative,yes,no,73,NOT HISPANIC OR LATINO,WHITE,Male,0,Adverse,Complex,1/1/2000,1/1/2000
+139,TCGA-AB-2942,Negative,Negative,Negative,Negative,Negative,no,yes,67,NOT HISPANIC OR LATINO,WHITE,Female,21.0578,Intermediate,"46,XX,inv(16)[20]",1/1/2000,10/3/2001
+140,TCGA-AB-2943,Negative,Positive,Negative,Negative,Negative,yes,yes,70,NOT HISPANIC OR LATINO,WHITE,Female,,Adverse,Complex,1/1/2000,1/1/2000
+141,TCGA-AB-2944,Negative,Negative,Negative,Negative,Negative,yes,yes,48,NOT HISPANIC OR LATINO,WHITE,Male,,Intermediate,"46,XY[20]",1/1/2000,1/1/2000
+142,TCGA-AB-2945,Negative,Negative,Negative,Negative,Negative,yes,yes,65,NOT HISPANIC OR LATINO,WHITE,Female,7.98292,Adverse,Complex,1/1/2000,8/31/2000
+143,TCGA-AB-2946,Negative,Negative,Negative,Negative,Negative,no,yes,41,NOT HISPANIC OR LATINO,WHITE,Male,,Intermediate,"46,XY[20]",1/1/2000,1/1/2000
+144,TCGA-AB-2947,Negative,Negative,Negative,Negative,Negative,no,yes,52,NOT HISPANIC OR LATINO,WHITE,Male,1.0184,Intermediate,"46,XY[20]",1/1/2000,2/1/2000
+145,TCGA-AB-2948,Negative,Negative,Negative,Negative,Negative,yes,yes,67,NOT HISPANIC OR LATINO,WHITE,Male,19.0539,Intermediate,"46,XY[20]",1/1/2000,8/3/2001
+146,TCGA-AB-2949,Negative,Negative,Positive,Negative,Negative,no,yes,58,NOT HISPANIC OR LATINO,WHITE,Male,22.9632,Adverse,Complex,1/1/2000,11/30/2001
+147,TCGA-AB-2950,Negative,Negative,Negative,Negative,Negative,no,yes,34,NOT HISPANIC OR LATINO,WHITE,Female,10.0526,Favorable,t(8;21),1/1/2000,11/2/2000
+148,TCGA-AB-2952,Negative,Negative,Negative,Negative,Negative,yes,yes,60,NOT HISPANIC OR LATINO,WHITE,Female,1.0184,Adverse,Complex,1/1/2000,2/1/2000
+149,TCGA-AB-2954,Negative,Negative,Negative,Negative,Negative,no,yes,55,NOT HISPANIC OR LATINO,WHITE,Female,49.0145,Intermediate,"46,XX[20]",1/1/2000,2/1/2004
+150,TCGA-AB-2955,Negative,Negative,Negative,Negative,Negative,yes,yes,56,NOT HISPANIC OR LATINO,WHITE,Female,16.0644,Intermediate,"46,XX[20]",1/1/2000,5/4/2001
+151,TCGA-AB-2956,Negative,Negative,Negative,Negative,Negative,yes,yes,61,NOT HISPANIC OR LATINO,WHITE,Male,6.01183,Intermediate,"46,XY,t(8;21)[20]",1/1/2000,7/2/2000
+152,TCGA-AB-2957,Negative,Negative,Negative,Negative,Negative,no,yes,31,NOT HISPANIC OR LATINO,WHITE,Male,20.0066,Favorable,"46,XY,inv(16)[20]",1/1/2000,9/1/2001
+153,TCGA-AB-2959,Negative,Negative,Negative,Negative,Negative,yes,yes,71,NOT HISPANIC OR LATINO,WHITE,Male,16.0644,Intermediate,"46,XY[20]",1/1/2000,5/4/2001
+154,TCGA-AB-2963,Negative,Negative,Negative,Negative,Negative,yes,yes,56,NOT HISPANIC OR LATINO,WHITE,Male,53.9422,Intermediate,"46,XY[20]",1/1/2000,6/30/2004
+155,TCGA-AB-2964,Negative,Negative,Negative,Negative,Negative,no,yes,57,NOT HISPANIC OR LATINO,WHITE,Female,41.9514,Intermediate,"46,XX[20]",1/1/2000,7/1/2003
+156,TCGA-AB-2965,Negative,Negative,Negative,Negative,Negative,yes,yes,60,NOT HISPANIC OR LATINO,WHITE,Male,11.0053,Intermediate,"46,XY[20]",1/1/2000,12/1/2000
+157,TCGA-AB-2966,Negative,Negative,Negative,Negative,Negative,yes,yes,57,NOT HISPANIC OR LATINO,WHITE,Female,28.0552,Intermediate,"46,XX[20]",1/1/2000,5/4/2002
+158,TCGA-AB-2967,Negative,Negative,Negative,Negative,Negative,no,yes,58,NOT HISPANIC OR LATINO,WHITE,Male,34.0013,Intermediate,"46,XY[20]",1/1/2000,11/1/2002
+159,TCGA-AB-2968,Negative,Negative,Negative,Negative,Negative,yes,yes,79,NOT HISPANIC OR LATINO,WHITE,Male,15.046,Intermediate,"46,XY[20]",1/1/2000,4/3/2001
+160,TCGA-AB-2969,Negative,Negative,Negative,Negative,Negative,no,yes,55,NOT HISPANIC OR LATINO,WHITE,Male,37.0237,Intermediate,"46,XY[20]",1/1/2000,2/1/2003
+161,TCGA-AB-2970,Negative,Negative,Negative,Negative,Negative,yes,no,34,NOT HISPANIC OR LATINO,WHITE,Female,10.0197,Intermediate,"46,XX[20]",1/1/2000,11/1/2000
+162,TCGA-AB-2971,Negative,Negative,Negative,Negative,Negative,yes,yes,76,NOT HISPANIC OR LATINO,WHITE,Female,26.0184,Intermediate,"46,XX[20]",1/1/2000,3/3/2002
+163,TCGA-AB-2972,Negative,Negative,Negative,Negative,Negative,yes,yes,82,NOT HISPANIC OR LATINO,WHITE,Female,0.985545,Intermediate,"46,XX[20]",1/1/2000,1/31/2000
+164,TCGA-AB-2973,Negative,Negative,Negative,Negative,Negative,yes,yes,68,NOT HISPANIC OR LATINO,WHITE,Female,20.0066,Intermediate,"46,XX[20]",1/1/2000,9/1/2001
+165,TCGA-AB-2974,Negative,Negative,Negative,Negative,Negative,yes,no,67,NOT HISPANIC OR LATINO,WHITE,Female,3.02234,Intermediate,"46,XX[20]",1/1/2000,4/2/2000
+166,TCGA-AB-2975,Negative,Negative,Negative,Negative,Negative,yes,yes,54,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Male,,Intermediate,"46,XY[20]",1/1/2000,1/1/2000
+167,TCGA-AB-2976,Negative,Negative,Negative,Negative,Negative,yes,yes,53,NOT HISPANIC OR LATINO,WHITE,Male,30.0591,Intermediate,"46,XY[20]",1/1/2000,7/4/2002
+168,TCGA-AB-2977,Negative,Negative,Negative,Negative,Negative,yes,yes,71,NOT HISPANIC OR LATINO,WHITE,Female,1.0184,Intermediate,"46,XX[20]",1/1/2000,2/1/2000
+169,TCGA-AB-2978,Negative,Negative,Negative,Negative,Negative,no,yes,61,NOT HISPANIC OR LATINO,WHITE,Female,22.9632,Intermediate,"46,XX[20]",1/1/2000,11/30/2001
+170,TCGA-AB-2979,Negative,Negative,Negative,Negative,Negative,no,yes,30,NOT HISPANIC OR LATINO,WHITE,Female,22.0434,Intermediate,"46,XX[20]",1/1/2000,11/2/2001
+171,TCGA-AB-2980,Negative,Negative,Negative,Negative,Negative,no,yes,50,NOT HISPANIC OR LATINO,WHITE,Male,22.9632,Favorable,"46,XY,t(15;17)[20]",1/1/2000,11/30/2001
+172,TCGA-AB-2981,Negative,Negative,Negative,Negative,Negative,no,yes,35,NOT HISPANIC OR LATINO,WHITE,Female,15.9987,Intermediate,"46,XX[20]",1/1/2000,5/2/2001
+173,TCGA-AB-2982,Negative,Negative,Negative,Negative,Negative,no,yes,29,,,Female,4.92773,Favorable,t(15;17),1/1/2000,5/30/2000
+174,TCGA-AB-2983,Negative,Negative,Negative,Negative,Negative,yes,yes,45,NOT HISPANIC OR LATINO,WHITE,Male,11.0053,Intermediate,"46,XY[20]",1/1/2000,12/1/2000
+175,TCGA-AB-2984,Negative,Negative,Negative,Negative,Negative,no,yes,38,NOT HISPANIC OR LATINO,WHITE,Male,38.0092,Intermediate,"46,XY[20]",1/1/2000,3/3/2003
+176,TCGA-AB-2985,Negative,Negative,Negative,Negative,Negative,yes,yes,81,NOT HISPANIC OR LATINO,WHITE,Female,8.96846,Intermediate,"46,XX[20]",1/1/2000,9/30/2000
+177,TCGA-AB-2986,Negative,Negative,Negative,Negative,Negative,yes,yes,31,NOT HISPANIC OR LATINO,WHITE,Female,6.96452,Intermediate,"46,XX[20]",1/1/2000,7/31/2000
+178,TCGA-AB-2987,Negative,Negative,Negative,Negative,Negative,yes,yes,75,NOT HISPANIC OR LATINO,WHITE,Female,6.04468,Intermediate,"46,XX[20]",1/1/2000,7/3/2000
+179,TCGA-AB-2988,Negative,Negative,Negative,Negative,Negative,yes,yes,67,NOT HISPANIC OR LATINO,WHITE,Female,0.985545,Intermediate,"46,XX[20]",1/1/2000,1/31/2000
+180,TCGA-AB-2989,Negative,Negative,Negative,Negative,Negative,yes,yes,29,NOT HISPANIC OR LATINO,WHITE,Male,11.9908,Intermediate,"46,XY[20]",1/1/2000,12/31/2000
+181,TCGA-AB-2990,Negative,Negative,Negative,Negative,Negative,no,yes,51,NOT HISPANIC OR LATINO,WHITE,Male,15.0131,Intermediate,"46,XY[20]",1/1/2000,4/2/2001
+182,TCGA-AB-2991,Negative,Negative,Negative,Negative,Negative,no,yes,40,NOT HISPANIC OR LATINO,WHITE,Female,59.9869,Favorable,t(15;17),1/1/2000,12/31/2004
+183,TCGA-AB-2992,Negative,Negative,Negative,Negative,Negative,yes,yes,32,NOT HISPANIC OR LATINO,WHITE,Female,56.0447,Intermediate,"46,XX[20]",1/1/2000,9/2/2004
+184,TCGA-AB-2993,Negative,Negative,Negative,Negative,Negative,yes,yes,57,NOT HISPANIC OR LATINO,WHITE,Female,25,Intermediate,"46,XX[20]",1/1/2000,1/31/2002
+185,TCGA-AB-2994,Negative,Negative,Negative,Negative,Negative,no,yes,25,NOT HISPANIC OR LATINO,WHITE,Male,59.067,Favorable,"46,XY,t(15;17)[20]",1/1/2000,12/3/2004
+186,TCGA-AB-2995,Negative,Negative,Negative,Negative,Negative,no,yes,63,NOT HISPANIC OR LATINO,WHITE,Male,50.9527,Intermediate,"46,XY[20]",1/1/2000,3/31/2004
+187,TCGA-AB-2996,Negative,Negative,Negative,Negative,Negative,no,no,74,NOT HISPANIC OR LATINO,WHITE,Male,51.9382,Intermediate,"46,XY[20]",1/1/2000,4/30/2004
+188,TCGA-AB-2997,Negative,Negative,Negative,Negative,Negative,yes,yes,25,NOT HISPANIC OR LATINO,WHITE,Female,,Favorable,t(15;17),1/1/2000,1/1/2000
+189,TCGA-AB-2998,Negative,Negative,Negative,Negative,Negative,yes,yes,68,NOT HISPANIC OR LATINO,WHITE,Female,1.0184,Favorable,t(15;17),1/1/2000,2/1/2000
+190,TCGA-AB-2999,Negative,Negative,Negative,Negative,Negative,no,yes,62,NOT HISPANIC OR LATINO,WHITE,Male,56.9974,Favorable,"46,XY,t(15;17)[20]",1/1/2000,10/1/2004
+191,TCGA-AB-3000,Negative,Negative,Negative,Negative,Negative,no,yes,25,NOT HISPANIC OR LATINO,WHITE,Male,41.0315,Intermediate,"46,XY[20]",1/1/2000,6/3/2003
+192,TCGA-AB-3001,Negative,Negative,Negative,Negative,Negative,no,yes,31,NOT HISPANIC OR LATINO,WHITE,Female,51.9382,Favorable,t(15;17),1/1/2000,4/30/2004
+193,TCGA-AB-3002,Negative,Negative,Negative,Negative,Negative,yes,yes,68,NOT HISPANIC OR LATINO,WHITE,Male,47.0105,Intermediate,"46,XY[20]",1/1/2000,12/2/2003
+194,TCGA-AB-3005,Negative,Negative,Negative,Negative,Negative,no,yes,45,NOT HISPANIC OR LATINO,WHITE,Male,68.9882,Intermediate,"46,XY[20]",1/1/2000,10/1/2005
+195,TCGA-AB-3006,Negative,Negative,Negative,Negative,Negative,yes,yes,61,NOT HISPANIC OR LATINO,WHITE,Male,15.933,Intermediate,"46,XY[20]",1/1/2000,4/30/2001
+196,TCGA-AB-3007,Negative,Negative,Negative,Negative,Negative,no,yes,35,NOT HISPANIC OR LATINO,WHITE,Male,51.9382,Favorable,"46,XY,t(15;17)[20]",1/1/2000,4/30/2004
+197,TCGA-AB-3008,Negative,Negative,Negative,Negative,Negative,yes,yes,22,NOT HISPANIC OR LATINO,WHITE,Male,27.0039,Intermediate,"46,XY[20]",1/1/2000,4/2/2002
+198,TCGA-AB-3009,Negative,Negative,Negative,Negative,Negative,yes,yes,23,,,Male,18.9553,Intermediate,"46,XY[20]",1/1/2000,7/31/2001
+199,TCGA-AB-3011,Negative,Negative,Negative,Negative,Negative,no,yes,21,NOT HISPANIC OR LATINO,WHITE,Female,61.9251,Intermediate,"46,XX[20]",1/1/2000,2/28/2005
+200,TCGA-AB-3012,Negative,Negative,Negative,Negative,Negative,no,yes,53,NOT HISPANIC OR LATINO,WHITE,Male,61.9908,Favorable,"46,XY,t(15;17)[20]",1/1/2000,3/2/2005
